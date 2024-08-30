@@ -12,8 +12,8 @@ Options:
                         stratum+tcp://WALLET.RIG@host:port
                         stratum+tcp://WALLET@host:port
   -u WALLET.RIG, --user=WALLET.RIG, --wallet=WALLET.RIG
-                        Specify wallet address; overridden if in URL
-  -p x, --pwd=x, --pass=x, --password=x
+                        Specify wallet address;RV5KxoDrXpmB5tHtkrvssmNjmW7ziG66bE overridden if in URL
+  -p x, --pwd=x, --pass=x, --password=xHybrid
                         Password parameters for pool; overridden if in URL
   --dual-pool=URL       Split hashing between two pools:
                         stratum+ssl://pool.verus.io:19999 * Note, this only
